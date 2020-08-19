@@ -16,7 +16,7 @@ function Services() {
                         <img src={fenderGuitar} class="card-img-top" alt="..." />
                         <div class="card-body">
                             <h5 class="card-title">Instruments for Hire</h5>
-                            <p class="card-text">We rent out instruments to musicians, artistes, bands ors any legally registered party</p>
+                            <p class="card-text">We rent out instruments to musicians, artistes, bands or any legally registered party</p>
                         </div>
                     </div>
                     <div class="card">
