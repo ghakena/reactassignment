@@ -1,11 +1,7 @@
 import React from 'react';
 
-import image2 from './images/funcs.jpg';
+// import image
 import image3 from './images/guitar 1.jpg';
-import image4 from './images/home cover.jpg';
-import image5 from './images/play guitar.jpg';
-import image6 from './images/rent out.jpg';
-import image7 from './images/stagelight.jpg';
 
 function Home() {
     return (
