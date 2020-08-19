@@ -20,7 +20,7 @@ function Home() {
                     <div class="carousel-item active">
                         <img src={image3} class="d-block w-100" alt="" />
                             <div class="carousel-caption d-none d-md-block">
-                                <h1 className="welcome-message">Welcome to Muzikal Ent.</h1>
+                                <h1 className="welcome-message">Welcome to Muzikal Afrika Ent.</h1>
                                 <h3 className="welcome-message">YOUR HUB FOR ALL YOUR ENTERTAINMENT NEEDS</h3>
                             </div>
                     </div>

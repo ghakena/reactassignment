@@ -11,7 +11,7 @@ function About() {
                     renting out instruments, stage preparation for concerts, instrument sales, instrument maintenance, music production, among others.
                 </p>
                 <div class="lead">
-                    We seek to promote talent, a productive work ethic for artistes, quality in the producion of music, shows and many other platforms that actively involve
+                    At Muzikal Afrika, we seek to promote talent, a productive work ethic for artistes, quality in the producion of music, shows and many other platforms that actively involve
                     the musicians.
                 </div>
 
