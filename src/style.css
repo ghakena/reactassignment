@@ -1,5 +1,5 @@
 .navbar-div {
-    font-family: 'Alegreya';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     font-weight: 500;
     color: black;
@@ -23,6 +23,7 @@
 
 .welcome-message, .services-title {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
 }
 
 .card-group {
@@ -36,4 +37,23 @@
 
 .contact-div {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+.contact-form-div {
+    margin-left: 10px;
+}
+
+.services-div {
+    margin-left: 10px;
+}
+
+.about-div {
+    background-color: lightgrey;
+    background-image: url('./images/mic.jpg');
+}
+.services-title {
+    text-align: center;
+}
+.display-4 {
+    text-align: center;
 }
