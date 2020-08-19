@@ -1,0 +1,39 @@
+.navbar-div {
+    font-family: 'Alegreya';
+    font-size: larger;
+    font-weight: 500;
+    color: black;
+}
+.home-div {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkslategray;
+    align-content: center;
+}
+.carousel-item img {
+    height: 700px;
+}
+
+.lead, .display-4, .contact-text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contact-text {
+    color: black;
+}
+
+.welcome-message, .services-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.card-group {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact-div {
+    width: 80%;
+    align-items: center;
+}
+
+.contact-div {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
