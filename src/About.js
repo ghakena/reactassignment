@@ -1,9 +1,9 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 
 function About() {
     return (
         <div className="about-div">
-            <div className="bgn-img"></div>
             <div class="jumbotron">
                 <h1 class="display-4">ABOUT US</h1>
                 <p class="lead">
@@ -17,7 +17,7 @@ function About() {
 
                 <hr class="my-4" />
                 <p class="contact-text">Get in contact with us for any of our services above using these link below</p>
-                <a class="btn btn-primary btn-lg" href="#" role="button">CONTACT US</a>
+                <Link to="/contact" class="btn btn-primary btn-lg" role="button">CONTACT US</Link>
             </div>
         </div>
     )

@@ -1,6 +1,7 @@
 import React from 'react';
 import './style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import {BrowserRouter, Route} from 'react-router-dom';
 // Components
 import Navbar from './Navbar';
 import Home from './Home';
@@ -11,14 +12,13 @@ import Contact from './Contact';
 function App() {
     return(
         <div className="app-div">
-            <Navbar />
-            <Home />
-            <About />
-            <Services />
-            <br />
-            <footer>
-                <Contact />
-            </footer>
+            <BrowserRouter>
+                <Navbar />
+                <Route path="/" exact component={Home} />
+                <Route path="/about" component={About} />
+                <Route path="/services" component={Services} />
+                <Route path="/contact" component={Contact} />
+            </BrowserRouter>
         </div>
     )
 }

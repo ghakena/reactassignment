@@ -5,7 +5,6 @@
     color: darkslategrey;
 }
 .home-div {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: darkslategray;
     align-content: center;
 }
@@ -14,52 +13,93 @@
 }
 
 .lead, .display-4, .contact-text {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
 }
 
 .contact-text {
     color: 'darkslategrey';
 }
 
-.welcome-message, .services-title {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 40px;
+.services-title {
+    font-family: 'Bangers', cursive;
+    font-size: 50px;
 }
 
 .card-group {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: large;
 }
 
 .contact-div {
     width: 80%;
     align-items: center;
+    font-family: 'Bangers', cursive;
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgb(91, 93, 92);
+    color: whitesmoke;
 }
 
-.contact-div {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: 'darkslategrey';    
-}
-
-.contact-form-div {
+.contact {
     margin-left: 10px;
-    color: 'darkslategrey';
+}
+
+.form-group {
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+}
+.btn {
+    padding: 30px;
+    font-family: 'Rubik', sans-serif;
+}
+.form-text {
+    color: whitesmoke;
 }
 
 .services-div {
     margin-left: 10px;
     color: 'darkslategrey';
 }
-
-.about-div {
-    background-color: lightgrey;
-    background-image: url('./images/mic.jpg');
-    color: 'darkslategrey'
-}
 .services-title {
     text-align: center;
-    color: 'darkslategrey'
+    color: 'darkslategrey';
+    font-family: 'Bangers', cursive;
+    font-family: 'Bebas Neue', cursive;
 }
 .display-4 {
     text-align: center;
-    color: 'darkslategrey'
+    color: 'darkslategrey';
+    font-family: 'Bangers', cursive;
+    font-family: 'Bebas Neue', cursive;
+}
+.lead {
+    font-size: 30px;
+}
+.welcome-message-1 {
+    font-family: 'Bangers', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    position: relative;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.welcome-message-2 {
+    font-family: 'Bangers', cursive;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: 40px;
+    position: relative;
+    text-align: center;
+}
+.about-div .jumbotron {
+    background-color: rgb(65, 71, 68);
+    color: whitesmoke;
+    font-size: larger;
+}
+.card-body {
+    background-color: rgb(65, 71, 68);
+    color: whitesmoke;
 }
