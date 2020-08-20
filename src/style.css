@@ -2,7 +2,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: larger;
     font-weight: 500;
-    color: black;
+    color: darkslategrey;
 }
 .home-div {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -18,7 +18,7 @@
 }
 
 .contact-text {
-    color: black;
+    color: 'darkslategrey';
 }
 
 .welcome-message, .services-title {
@@ -36,24 +36,30 @@
 }
 
 .contact-div {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: 'darkslategrey';    
 }
 
 .contact-form-div {
     margin-left: 10px;
+    color: 'darkslategrey';
 }
 
 .services-div {
     margin-left: 10px;
+    color: 'darkslategrey';
 }
 
 .about-div {
     background-color: lightgrey;
     background-image: url('./images/mic.jpg');
+    color: 'darkslategrey'
 }
 .services-title {
     text-align: center;
+    color: 'darkslategrey'
 }
 .display-4 {
     text-align: center;
+    color: 'darkslategrey'
 }
